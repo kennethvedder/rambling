@@ -5,6 +5,6 @@ layout: default
 ---
 
 # One Hash Title
-## _Second Title, Two Hashes_
+## *Second Title, Two Hashes*
 
-Normal Text
+Normal Text, futher expand upon this!
