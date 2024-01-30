@@ -3,36 +3,46 @@ title: "Test Web Site"
 permalink: /
 layout: default
 ---
-[Custom description](#one-Hash-Title)
-# One Hash Title
-## Second Title, Two Hashes
+# Main Title
 
-Normal Text, futher expand upon this!
+# Contents
+-[Category 1](#category-1)
+-[Category 2](#category-2)
+-[Category 3](#category-3)
+-[Category 4](#category-4)
 
-Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. Hey, you know how I'm, like, always trying to save the planet? Here's my chance. Hey, take a look at the earthlings. Goodbye! Did he just throw my cat out of the window?
+# Category 1
 
-We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore! Did he just throw my cat out of the window? Yes, Yes, without the oops! What do they got in there? King Kong?
+The Nintendo 64[a] (N64) is a home video game console developed by Nintendo. It was released on June 23, 1996, in Japan; on September 29, 1996, in North America; and on March 1, 1997, in Europe and Australia. The successor to the Super Nintendo Entertainment System, it was the last major home console to use cartridges as its primary storage format until the Nintendo Switch in 2017.[9] It competed primarily with the Sony PlayStation and the Sega Saturn.
 
-Did he just throw my cat out of the window? God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs. Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager?
+Development began in 1993 in partnership with Silicon Graphics, using the codename Project Reality, then a test model and arcade platform called Ultra 64. The final design was named after its 64-bit CPU, which aided in the console's 3D capabilities. Its design was mostly complete by mid-1995 and launch was delayed until 1996 for the completion of the launch games Super Mario 64, Pilotwings 64, and Saikyō Habu Shōgi (exclusive to Japan). The charcoal-gray console was followed by a series of color variants. Some games require the Expansion Pak accessory to increase system RAM from 4 MB to 8 MB, for improved graphics and functionality. The console mainly supports saved game storage either onboard cartridges or on the Controller Pak accessory. The 64DD peripheral drive hosts both exclusive games and expansion content for cartridges, with many further accessories plus the defunct Internet service Randnet, but it was a commercial failure and was released only in Japan.
 
-You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager? God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs. They're using our own satellites against us. And the clock is ticking.
+## Category 2
 
-Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. So you two dig up, dig up dinosaurs? Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists.
+The PlayStation[a] (abbreviated as PS, commonly known as the PS1/PS one or its codename PSX) is a home video game console developed and marketed by Sony Computer Entertainment. It was released in Japan on 3 December 1994, in North America on 9 September 1995, in Europe on 29 September 1995, and in Australia on 15 November 1995. As a fifth-generation console, the PlayStation primarily competed with the Nintendo 64 and the Sega Saturn.
 
-Must go faster. My dad once told me, laugh and the world laughs with you, Cry, and I'll give you something to cry about you little bastard! Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? Is this my espresso machine? Wh-what is-h-how did you get my espresso machine?
+Sony began developing the PlayStation after a failed venture with Nintendo to create a CD-ROM peripheral for the Super Nintendo Entertainment System in the early 1990s. The console was primarily designed by Ken Kutaragi and Sony Computer Entertainment in Japan, while additional development was outsourced in the United Kingdom. An emphasis on 3D polygon graphics was placed at the forefront of the console's design. PlayStation game production was designed to be streamlined and inclusive, enticing the support of many third-party developers.
 
-You know what? It is beets. I've crashed into a beet truck. Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs.
+The console proved popular for its extensive game library, popular franchises, low retail price, and aggressive youth marketing which advertised it as the preferable console for adolescents and adults. Premier PlayStation franchises included Gran Turismo, Wipeout, Crash Bandicoot, Spyro, Tomb Raider, Resident Evil, Metal Gear, Tekken, and Final Fantasy, all of which spawned numerous sequels. PlayStation games continued to sell until Sony ceased production of the PlayStation and its games on 23 March 2006—over eleven years after it had been released, and less than a year before the debut of the PlayStation 3.[12] A total of 3,061 PlayStation games were released, with cumulative sales of 967 million units.
 
-Hey, you know how I'm, like, always trying to save the planet? Here's my chance. So you two dig up, dig up dinosaurs? Did he just throw my cat out of the window? God help us, we're in the hands of engineers. They're using our own satellites against us. And the clock is ticking.
+The PlayStation signalled Sony's rise to power in the video game industry. It received acclaim and sold strongly; in less than a decade, it became the first computer entertainment platform to ship over 100 million units.[15] Its use of compact discs heralded the game industry's transition from cartridges. The PlayStation's success led to a line of successors, beginning with the PlayStation 2 in 2000. In the same year, Sony released a smaller and cheaper model, the PS one.
 
-Eventually, you do plan to have dinosaurs on your dinosaur tour, right? You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager? Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Forget the fat lady! You're obsessed with the fat lady! Drive us out of here!
+### Category 3
 
-Jaguar shark! So tell me - does it really exist? You know what? It is beets. I've crashed into a beet truck. So you two dig up, dig up dinosaurs? I was part of something special. Checkmate... Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists.
+The Sega Saturn[a][b] is a home video game console developed by Sega and released on November 22, 1994, in Japan, May 11, 1995, in North America, and July 8, 1995, in Europe. Part of the fifth generation of video game consoles, it is the successor to the successful Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, including several ports of arcade games and original games.
 
-Eventually, you do plan to have dinosaurs on your dinosaur tour, right? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. I was part of something special. Jaguar shark! So tell me - does it really exist? Life finds a way.
+Development of the Saturn began in 1992, the same year Sega's groundbreaking 3D Model 1 arcade hardware debuted. The Saturn was designed around a new CPU from the Japanese electronics company Hitachi. Another video display processor was added in early 1994 to better compete with Sony's forthcoming PlayStation.
 
-Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! I gave it a cold? I gave it a virus. A computer virus. Remind me to thank John for a lovely weekend. What do they got in there? King Kong? Forget the fat lady! You're obsessed with the fat lady! Drive us out of here!
+The Saturn was initially successful in Japan but not in the United States, where it was hindered by a surprise May 1995 launch, four months before its scheduled release date. After the debut of the Nintendo 64 in late 1996, the Saturn rapidly lost market share in the U.S., where it was discontinued in 1998. At 9.26 million units sold worldwide, the Saturn is considered a commercial failure; the cancellation of Sonic X-treme, planned as the first 3D entry in Sega's popular Sonic the Hedgehog series, contributed to its performance. The Saturn was succeeded in 1998 by the Dreamcast.
 
-Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! Remind me to thank John for a lovely weekend. Must go faster... go, go, go, go, go! You know what? It is beets. I've crashed into a beet truck. I was part of something special.
+Although the Saturn has several well-regarded games, including Nights into Dreams, the Panzer Dragoon series, and the Virtua Fighter series, its reception is mixed due to its complex hardware design and limited third-party support. Sega's management has been criticized for its decisions during the Saturn's development and discontinuation.
 
-[Click here](#one-Hash-Title)
+### Category 4
+
+Silicon Graphics, Inc. (stylized as SiliconGraphics before 1999, later rebranded SGI, historically known as Silicon Graphics Computer Systems or SGCS) was an American high-performance computing manufacturer, producing computer hardware and software. Founded in Mountain View, California in November 1981 by James Clark, its initial market was 3D graphics computer workstations, but its products, strategies and market positions developed significantly over time.
+
+Early systems were based on the Geometry Engine that Clark and Marc Hannah had developed at Stanford University, and were derived from Clark's broader background in computer graphics. The Geometry Engine was the first very-large-scale integration (VLSI) implementation of a geometry pipeline, specialized hardware that accelerated the "inner-loop" geometric computations needed to display three-dimensional images. For much of its history, the company focused on 3D imaging and was a major supplier of both hardware and software in this market.
+
+Silicon Graphics reincorporated as a Delaware corporation in January 1990. Through the mid to late-1990s, the rapidly improving performance of commodity Wintel machines began to erode SGI's stronghold in the 3D market. The porting of Maya to other platforms was a major event in this process. SGI made several attempts to address this, including a disastrous move from their existing MIPS platforms to the Intel Itanium, as well as introducing their own Linux-based Intel IA-32 based workstations and servers that failed in the market. In the mid-2000s the company repositioned itself as a supercomputer vendor, a move that also failed.
+
+On April 1, 2009, SGI filed for Chapter 11 bankruptcy protection and announced that it would sell substantially all of its assets to Rackable Systems, a deal finalized on May 11, 2009, with Rackable assuming the name Silicon Graphics International. The remains of Silicon Graphics, Inc. became Graphics Properties Holdings, Inc.
