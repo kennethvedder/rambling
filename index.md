@@ -3,19 +3,21 @@ title: "Test Web Site"
 permalink: /
 layout: default
 ---
-# Main Title
+# Tool Documentation
 
 # Contents
 - [Category 1](#category-1)
 - [Category 2](#category-2)
 - [Category 3](#category-3)
-- [Category 4](#category-4)
+- [Track Wizard](#track-wizard)
 
 # Category 1
 
 The Nintendo 64[a] (N64) is a home video game console developed by Nintendo. It was released on June 23, 1996, in Japan; on September 29, 1996, in North America; and on March 1, 1997, in Europe and Australia. The successor to the Super Nintendo Entertainment System, it was the last major home console to use cartridges as its primary storage format until the Nintendo Switch in 2017.[9] It competed primarily with the Sony PlayStation and the Sega Saturn.
 
 Development began in 1993 in partnership with Silicon Graphics, using the codename Project Reality, then a test model and arcade platform called Ultra 64. The final design was named after its 64-bit CPU, which aided in the console's 3D capabilities. Its design was mostly complete by mid-1995 and launch was delayed until 1996 for the completion of the launch games Super Mario 64, Pilotwings 64, and Saikyō Habu Shōgi (exclusive to Japan). The charcoal-gray console was followed by a series of color variants. Some games require the Expansion Pak accessory to increase system RAM from 4 MB to 8 MB, for improved graphics and functionality. The console mainly supports saved game storage either onboard cartridges or on the Controller Pak accessory. The 64DD peripheral drive hosts both exclusive games and expansion content for cartridges, with many further accessories plus the defunct Internet service Randnet, but it was a commercial failure and was released only in Japan.
+
+
 
 ## Category 2
 
@@ -37,12 +39,12 @@ The Saturn was initially successful in Japan but not in the United States, where
 
 Although the Saturn has several well-regarded games, including Nights into Dreams, the Panzer Dragoon series, and the Virtua Fighter series, its reception is mixed due to its complex hardware design and limited third-party support. Sega's management has been criticized for its decisions during the Saturn's development and discontinuation.
 
-### Category 4
+# Track Wizard
 
-Silicon Graphics, Inc. (stylized as SiliconGraphics before 1999, later rebranded SGI, historically known as Silicon Graphics Computer Systems or SGCS) was an American high-performance computing manufacturer, producing computer hardware and software. Founded in Mountain View, California in November 1981 by James Clark, its initial market was 3D graphics computer workstations, but its products, strategies and market positions developed significantly over time.
+### Info needed:
 
-Early systems were based on the Geometry Engine that Clark and Marc Hannah had developed at Stanford University, and were derived from Clark's broader background in computer graphics. The Geometry Engine was the first very-large-scale integration (VLSI) implementation of a geometry pipeline, specialized hardware that accelerated the "inner-loop" geometric computations needed to display three-dimensional images. For much of its history, the company focused on 3D imaging and was a major supplier of both hardware and software in this market.
+| NODE_AMOUNT | NODE_DEPTH | TRACK_WIDTH | TRACK_HEIGHT |
+|--|--|--|--|
 
-Silicon Graphics reincorporated as a Delaware corporation in January 1990. Through the mid to late-1990s, the rapidly improving performance of commodity Wintel machines began to erode SGI's stronghold in the 3D market. The porting of Maya to other platforms was a major event in this process. SGI made several attempts to address this, including a disastrous move from their existing MIPS platforms to the Intel Itanium, as well as introducing their own Linux-based Intel IA-32 based workstations and servers that failed in the market. In the mid-2000s the company repositioned itself as a supercomputer vendor, a move that also failed.
 
-On April 1, 2009, SGI filed for Chapter 11 bankruptcy protection and announced that it would sell substantially all of its assets to Rackable Systems, a deal finalized on May 11, 2009, with Rackable assuming the name Silicon Graphics International. The remains of Silicon Graphics, Inc. became Graphics Properties Holdings, Inc.
+Using specific sampling from the original spline that lays out the track, we can place a "checkpoint" object every given distance X. using the "TRACK_WIDTH" number from the info
