@@ -43,8 +43,10 @@ Although the Saturn has several well-regarded games, including Nights into Dream
 
 ### Info needed:
 
-|NODE_AMOUNT|NODE_DEPTH|TRACK_WIDTH|TRACK_HEIGHT|
-|-|-|-|-|
-
+| Info needed |
+|--|
+| NODE_AMOUNT |
+| TRACK_WIDTH |
+| TRACK_HEIGHT |
 
 Using specific sampling from the original spline that lays out the track, we can place a "checkpoint" object every given distance X. using the "TRACK_WIDTH" number from the info
