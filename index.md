@@ -6,10 +6,10 @@ layout: default
 # Main Title
 
 # Contents
--[Category 1](#category-1)
--[Category 2](#category-2)
--[Category 3](#category-3)
--[Category 4](#category-4)
+- [Category 1](#category-1)
+- [Category 2](#category-2)
+- [Category 3](#category-3)
+- [Category 4](#category-4)
 
 # Category 1
 
